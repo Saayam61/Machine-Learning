@@ -9,8 +9,6 @@ Whether you're a beginner looking to learn the basics or an experienced practiti
 - [Directory Structure](#directory-structure)
 - [Getting Started](#getting-started)
 - [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -39,11 +37,11 @@ To get started with this repository, follow these steps:
 2. Navigate to the repository directory:
    cd Machine-Learning
 
-Projects
-Rock vs Mine Prediction
+## Projects
+1. Rock vs Mine Prediction
 In this project, we use sonar data to classify objects as either rocks or mines. The notebook includes data preprocessing, feature extraction,
 model training, and evaluation.
 
-Diabetes Prediction
+2. Diabetes Prediction
 This project involves building a model to predict whether a person has diabetes based on various medical parameters. The notebook covers data preprocessing,
 exploratory data analysis, model training, and evaluation.
