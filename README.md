@@ -38,10 +38,15 @@ To get started with this repository, follow these steps:
    cd Machine-Learning
 
 ## Projects
-1. Rock vs Mine Prediction
+**1. Rock vs Mine Prediction**
 In this project, we use sonar data to classify objects as either rocks or mines. The notebook includes data preprocessing, feature extraction,
 model training, and evaluation.
+Machine Learning Model Used: **Logistic Regression Model**
 
-2. Diabetes Prediction
+**2. Diabetes Prediction**
 This project involves building a model to predict whether a person has diabetes based on various medical parameters. The notebook covers data preprocessing,
 exploratory data analysis, model training, and evaluation.
+Machine Learning Model Used: **Support Vector Machine (SVM) Classifier Model**
+
+**3. Spam Mail Prediction**
+
